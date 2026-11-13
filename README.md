@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tryursula.com">Ursula</a> ·
-  <a href="https://unipusulam.com">UniPusulam</a> ·
-  <a href="https://www.linkedin.com/in/ylmzerdem/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ylmzerdem/">LinkedIn</a> ·
+  <a href="https://x.com/yilmazerdem22">X</a> ·
+  <a href="https://10fastfingers.com/user/erdem-yilmaz">10FastFingers</a>
 </p>
 
 ## 🛠️ What I’ve built
