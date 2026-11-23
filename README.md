@@ -18,11 +18,11 @@
 | **[Ursula ↗](https://tryursula.com)** | Helps students prepare for TOEFL and IELTS with section-by-section practice and mock exams. |
 | **[UniPusulam ↗](https://unipusulam.com)** | Helps students in Türkiye explore university programs and build their YKS preference lists. |
 
-## 🧠 What I’m into
+## What I’m into
 
 I’m interested in **artificial intelligence**, especially **natural language processing (NLP)**, **deep learning**, and **large language models (LLMs)**. I enjoy figuring out how models work under the hood and experimenting with what they can do in real applications.
 
-## 💻 Tools I work with
+## Tools I work with
 
 **Machine learning**
 
